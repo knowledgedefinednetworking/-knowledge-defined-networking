@@ -26,11 +26,6 @@ Datasets available here [here](http://knowledgedefinednetworking.org/).
 
 
 
-## General networking modeling (different topologies, sizes and traffic characteristics)
-
-Datasets available here [here](http://knowledgedefinednetworking.org/).
-
-
 ---
 
 author: amestres@ac.upc.edu
